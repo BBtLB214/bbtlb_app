@@ -1,0 +1,9 @@
+streamlit>=1.28
+gspread
+oauth2client
+pandas
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+scipy
